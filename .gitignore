@@ -1,13 +1,2 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.chroma_store/
-chroma_store/
-mlruns/
-*.log
-.DS_Store
-.env
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
